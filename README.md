@@ -1,2 +1,2 @@
 # AQI-Prediciton-AICTE
-This repo in for training AICTE Cycle 
+This repo in for learning AICTE Cycle 
